@@ -117,7 +117,11 @@ scaler.pkl (Feature Scaler)
 
 final_submission.csv (Predictions)
 
+<img width="1344" height="768" alt="Full Pipeline of project" src="https://github.com/user-attachments/assets/368e3206-9d13-4a93-b849-8c96fce1d27f" />
+
+
 🗂️ Repository Structure
+
 <img width="657" height="632" alt="image" src="https://github.com/user-attachments/assets/ac56b2fe-d654-4311-a602-bfd491abf0d1" />
 
 🧰 Tech Stack
