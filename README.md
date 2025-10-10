@@ -118,33 +118,7 @@ scaler.pkl (Feature Scaler)
 final_submission.csv (Predictions)
 
 🗂️ Repository Structure
-SuperLender-AI-Loan-Default-Prediction/
-│
-├── data/
-│   ├── traindemographics.csv
-│   ├── trainperf.csv
-│   ├── trainprevloans.csv
-│   ├── testdemographics.csv
-│   ├── testperf.csv
-│   ├── testprevloans.csv
-│
-├── notebooks/
-│   ├── data_exploration.ipynb
-│   ├── model_training.ipynb
-│
-├── src/
-│   ├── data_preprocessing.py
-│   ├── train_model.py
-│   ├── evaluate_model.py
-│
-├── models/
-│   ├── best_model.pkl
-│   ├── scaler.pkl
-│
-├── requirements.txt
-├── README.md
-├── LICENSE
-└── .gitignore
+<img width="657" height="632" alt="image" src="https://github.com/user-attachments/assets/ac56b2fe-d654-4311-a602-bfd491abf0d1" />
 
 🧰 Tech Stack
 
@@ -224,9 +198,8 @@ The importance of responsible AI in lending — improving financial inclusion fo
 
 ✅ Successfully submitted on Zindi Africa and awarded a Certificate of Completion for active participation in the Loan Default Prediction Challenge.
 
-(You can embed your certificate image here)
-
-![Certificate](certificate.png)
+<img width="1073" height="639" alt="image" src="https://github.com/user-attachments/assets/19ddb1ea-04a9-49b0-93dc-24e329d99970" />
+To Verify visit (https://zindi.africa/users/rupesh002/competitions/certificate)
 
 📜 License & Credits
 
