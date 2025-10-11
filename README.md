@@ -211,6 +211,6 @@ License: MIT
 
 Dataset & Problem Source: Zindi Africa
 
-Author: Leon Hartmann
+Author: Rupesh
 
 ✨ "Empowering Financial Inclusion through Data-Driven Intelligence."
