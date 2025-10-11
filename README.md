@@ -160,8 +160,7 @@ Repayment ratio
 
 Clone the repository
 
-git clone https://github.com/yourusername/SuperLender-Loan-Default-Prediction.git
-cd SuperLender-Loan-Default-Prediction
+git clone (https://github.com/Rupeshbhardwaj002/SuperLender-Smarter-Loans-with-Data-Driven-Decisions)
 
 
 Install dependencies
