@@ -29,7 +29,7 @@ SuperLender leverages advanced machine learning algorithms to analyze applicant 
 This project's core predictive model was developed and evaluated as part of the **Zindi Loan Default Prediction Challenge**, demonstrating its capability to handle real-world financial datasets and predict loan defaults effectively.
 
 <div align="center">
-  <img src="certificate.png" alt="Zindi Certificate - Loan Default Prediction Challenge" width="700"/>
+  <img src="" alt="Zindi Certificate - Loan Default Prediction Challenge" width="700"/>
   <br/>
   <i>Certificate of Participation - Zindi Loan Default Prediction Challenge</i>
 </div>
